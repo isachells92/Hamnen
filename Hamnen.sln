@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hamnen", "Hamnen\Hamnen.csproj", "{92F85ADC-5C09-4109-94EF-1D295DF579F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayThings", "ArrayThings\ArrayThings.csproj", "{56EEAC55-C23D-4748-A232-124C3C62E058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92F85ADC-5C09-4109-94EF-1D295DF579F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F85ADC-5C09-4109-94EF-1D295DF579F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F85ADC-5C09-4109-94EF-1D295DF579F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F85ADC-5C09-4109-94EF-1D295DF579F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56EEAC55-C23D-4748-A232-124C3C62E058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56EEAC55-C23D-4748-A232-124C3C62E058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56EEAC55-C23D-4748-A232-124C3C62E058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56EEAC55-C23D-4748-A232-124C3C62E058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C721FEC5-983F-4BD4-9370-F37680140EEF}
+	EndGlobalSection
+EndGlobal
